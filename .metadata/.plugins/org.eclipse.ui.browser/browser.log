@@ -1,0 +1,22 @@
+
+Sep 05, 2018 05:45:28.10 NEW SESSION
+Sep 05, 2018 05:45:28.10 [5388:9944:0905/054528.045:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 05:45:28.10 [5388:9944:0905/054528.045:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 05:45:28.11 [5388:9944:0905/054528.045:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 05:45:28.12 [5388:9944:0905/054528.045:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 05:45:28.12 [5388:9944:0905/054528.045:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 05:45:28.58 [5388:9944:0905/054528.586:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 05, 2018 05:46:13.03 Unable to read VR Path Registry from C:\Users\ltejasri\AppData\Local\openvr\openvrpaths.vrpath
+Sep 05, 2018 05:48:32.51 [5388:9944:0905/054832.519:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.057 s for parse_start 0.056 s
+Sep 05, 2018 05:48:32.51 [5388:9944:0905/054832.519:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.057 s for parse_start 0.056 s
+Sep 05, 2018 05:48:33.52 [5388:9944:0905/054833.523:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.057 s for parse_start 0.056 s
+Sep 05, 2018 05:48:34.53 [5388:9944:0905/054834.531:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.057 s for parse_start 0.056 s
+Sep 05, 2018 05:48:38.53 [5388:9944:0905/054838.532:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.057 s for parse_start 0.056 s
+Sep 05, 2018 05:48:38.53 [5388:9944:0905/054838.532:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.057 s for parse_start 0.056 s
+Sep 05, 2018 05:48:39.83 [5388:9944:0905/054839.832:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.057 s for parse_start 0.056 s
+Sep 05, 2018 05:48:41.42 [5388:9944:0905/054841.420:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.057 s for parse_start 0.056 s
+Sep 05, 2018 05:48:41.47 [5388:9944:0905/054841.469:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.018 s for parse_start 0.016 s
+Sep 05, 2018 05:48:42.48 [5388:9944:0905/054842.480:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.018 s for parse_start 0.016 s
+Sep 05, 2018 05:48:42.93 [5388:9944:0905/054842.934:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.018 s for parse_start 0.016 s
+Sep 05, 2018 05:48:42.93 [5388:9944:0905/054842.934:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.018 s for parse_start 0.016 s
+Sep 05, 2018 05:48:43.55 [5388:9944:0905/054843.558:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.018 s for parse_start 0.016 s
