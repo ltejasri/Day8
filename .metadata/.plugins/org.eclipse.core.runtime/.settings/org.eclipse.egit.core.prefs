@@ -1,2 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\SOFTWARES\\apache-tomcat-9.0.11\\apache-tomcat-9.0.11\\webapps\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
